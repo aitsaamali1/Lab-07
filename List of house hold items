@@ -12,6 +12,7 @@ class Program
             "Lamp",
             "Refrigerator",
             "Television"
+            "Computer"
         };
 
         foreach (var item in householdItems)
